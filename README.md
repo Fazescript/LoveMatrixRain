@@ -42,10 +42,10 @@ Instagram: [@fazescript](https://www.instagram.com/fazescript?igsh=dXB5MGozbHppa
 
 YouTube:  [@Fazescript](https://youtube.com/@fazescript?si=-ConkNouCS2CfNWm) — Watch tutorials on how to build projects like this.
 
-⭐ Star This Repo
+# ⭐ Star This Repo
 If you like this project, don't forget to give it a Star! It really helps the repository grow and reach more people.
 
-⚠️ License & Usage
+# ⚠️ License & Usage
 Personal & Educational Use
 
 Allowed: Use it to surprise your partner, learn the canvas logic, or for your own portfolio.
